@@ -1,3 +1,3 @@
 # Chat GPT Quiz Generator
 
-Chat GPT API for generating quiz questions and answers
+Uses the Chat GPT API for generating quiz questions and answers.
